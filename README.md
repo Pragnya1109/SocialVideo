@@ -1,6 +1,6 @@
 # Full Backend With Javascript
 
-[Model Link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
+[Model Link](https://app.eraser.io/workspace/t2w5UY3kDuzs3f6woShh?origin=share)
 
 This project is a fully-fledged backend system that I have developed using Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt, and more. It is designed to power a video hosting platform, similar to YouTube, with comprehensive features including user authentication (login/signup), video uploads, likes, dislikes, commenting with replies, and subscription management.
 
